@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 1px;
+}
+body{
+    background-image: url(hss2.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    font-family: new time roman;
+
+}
+h1{
+    font-size: 40px;
+    color: white;
+}
+small{
+    font-size: 20px;
+    color: white;
+}
+.glyphicon-send{
+    font-size: 60px;
+    color: lightblue;
+    float: right;
+    margin-top: 30px;
+}
+.label{
+    font-size: 15px;
+    color: white;
+    font-weiht: normal;
+}
+.form-control{
+    background: transparent;
+    color: ghostwhite;
+    border-radius: 0px;
+    border: 0px;
+    font-size: 15px;
+    border-bottom: 1px solid white;
+    margin-bottom: 15px;
+}
